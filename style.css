@@ -205,7 +205,7 @@ main    {
 
     .description    {
         transition: all 100ms ease;
-        font-size: 3vw;
+        font-size: 1rem;
     }
 
     .profile-img    {
